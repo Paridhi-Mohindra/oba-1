@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Oba-1"
+  description: "Oben Banking Accelerator spec services"
+  annotations:
+    github.com/project-slug: Paridhi-Mohindra/oba-1
+    backstage.io/techdocs-ref: url:https://github.com/Paridhi-Mohindra/oba-1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "Paridhi"
